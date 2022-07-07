@@ -1,3 +1,5 @@
+//There's small bug when you press "p", the score resets but it shouldn't do that, will fix it when I have some time.
+
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
